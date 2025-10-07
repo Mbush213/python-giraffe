@@ -1,2 +1,2 @@
 phrase = "Learning Strings"
-print(phrase.index("e"))
+print(phrase.index("rin"))
