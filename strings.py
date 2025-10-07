@@ -1,2 +1,2 @@
 phrase = "Learning Strings"
-print(len(phrase))
+print(phrase[0])
