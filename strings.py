@@ -1,2 +1,2 @@
 phrase = "Learning Strings"
-print(phrase)
+print(phrase + " is useful")
