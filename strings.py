@@ -1,2 +1,2 @@
 phrase = "Learning Strings"
-print(phrase.lower().islower())
+print(len(phrase))
