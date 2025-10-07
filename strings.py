@@ -1,1 +1,2 @@
-print("Learning\nStrings")
+phrase = "Learning Strings"
+print(phrase)
