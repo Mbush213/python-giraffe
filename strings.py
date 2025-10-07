@@ -1,2 +1,2 @@
 phrase = "Learning Strings"
-print(phrase.index("rin"))
+print(phrase.replace("Learning", "Destroying"))
