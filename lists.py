@@ -1,4 +1,4 @@
 
-friends = ["Kevin", "Karen", "Jim"]
+friends = ["Kevin", "Karen", "Jim", "Oscar", "Tony"]
 
-print (friends[1:])
+print (friends[1:3])
