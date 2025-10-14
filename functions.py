@@ -1,8 +1,8 @@
 
-def say_hi(name):
-    print("Hello " + name)
+def say_hi(name, age):
+    print("Hello " + name + ", you are " + age)
 
 
-say_hi("Mike")
-say_hi("Steve")
+say_hi("Mike", "33")
+say_hi("Steve", "65")
 
