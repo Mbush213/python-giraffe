@@ -1,5 +1,5 @@
 
 lucky_numbers = [4, 8, 15, 16, 23, 42]
-friends = ["Kevin", "Karen", "Jim", "Oscar", "Tony"]
+friends = ["Kevin", "Karen", "Jim", "Jim", "Oscar", "Tony"]
 
-print (friends.index("Oscar"))
+print (friends.count("Jim"))
