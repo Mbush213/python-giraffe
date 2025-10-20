@@ -1,3 +1,3 @@
-
-for letter in "Hoopla Republic":
-    print(letter)
+friends = ["jim", "Karen", "Kevin"]
+for friend in friends:
+    print(friend)
