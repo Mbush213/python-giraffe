@@ -1,7 +1,5 @@
 
 
-filo = open("filo_pilo", "r")
-for employee in filo.readlines():
-    print(employee)
-
+filo = open("filo_pilo", "a")
+filo.write("\nKelly - Customer Service")
 filo.close()
