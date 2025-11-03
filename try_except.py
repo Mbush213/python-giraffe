@@ -2,5 +2,5 @@
 try:
     number = int(input("Enter a number: "))
     print(number)
-except:
+except ValueError:
     print("Invalid Input")
